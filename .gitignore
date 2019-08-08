@@ -33,6 +33,7 @@ bin/**
 .idea
 *.ipr
 *.iml
+*.iws
 .settings
 
 #log giles
